@@ -1,0 +1,7 @@
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\bin\Debug\ReportGenerator.DAL.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\bin\Debug\ReportGenerator.DAL.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\bin\Debug\ReportGenerator.DataObjects.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\bin\Debug\ReportGenerator.DataObjects.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\obj\Debug\ReportGenerator.DAL.csprojResolveAssemblyReference.cache
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\obj\Debug\ReportGenerator.DAL.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.DAL\obj\Debug\ReportGenerator.DAL.pdb

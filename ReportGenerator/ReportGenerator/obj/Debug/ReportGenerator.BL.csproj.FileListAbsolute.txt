@@ -1,0 +1,8 @@
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\bin\Debug\itextsharp.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.BL.csprojResolveAssemblyReference.cache
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\obj\Debug\ReportGenerator.pdb
+C:\Users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.DataObjects.dll
+C:\Users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator\bin\Debug\ReportGenerator.DataObjects.pdb

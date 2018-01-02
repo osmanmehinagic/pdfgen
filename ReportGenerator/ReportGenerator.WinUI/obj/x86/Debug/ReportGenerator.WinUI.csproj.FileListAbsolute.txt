@@ -1,0 +1,16 @@
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.WinUI.exe.config
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.WinUI.exe
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.WinUI.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.DAL.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.DataObjects.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\itextsharp.dll
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.DAL.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.DataObjects.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\bin\Debug\ReportGenerator.pdb
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.csprojResolveAssemblyReference.cache
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.Properties.Resources.resources
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.csproj.GenerateResource.Cache
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.exe
+c:\users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.pdb
+C:\Users\osmanm\documents\visual studio 2010\Projects\ReportGenerator\ReportGenerator.WinUI\obj\x86\Debug\ReportGenerator.WinUI.GeneratorForm.resources
